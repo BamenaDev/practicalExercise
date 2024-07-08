@@ -336,8 +336,14 @@ hr{
             margin: 1.5%;
          }
          .roww{
-            display: contents;
+            display: inline;
+            padding-top: 2%;
          }
+        .second{
+          
+            padding-top: 2%;
+            padding: 5% 5%;
+        }
          .block1{
             background: wheat;
             padding:0 10px;
