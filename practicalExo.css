@@ -63,6 +63,10 @@ h3{
     font-size: large;
     margin: 2%;
 }
+.second{
+    font-size: larger;
+    height: 50vh;
+}
 .roww{
     width: 50%;
     margin: auto;
@@ -70,7 +74,7 @@ h3{
     padding-bottom: 8.9px;
     align-items: baseline;
     justify-content: space-between;
-    font-weight: 100%;
+    font-weight: 10%;
     text-transform: capitalize;
     word-spacing: 2px;
 }
@@ -191,7 +195,7 @@ h3{
 hr{
     width: 90%;
     border: 0;
-    border-bottom: 1px solid white;
+    border-bottom: 1px solid rgb(228, 64, 64);
     margin: 20px auto;
 }
 .copyright{
