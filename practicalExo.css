@@ -37,7 +37,7 @@ select{
     align-items: center;
 }
 .first{
-    background-image: url(https://media.istockphoto.com/id/465559373/photo/old-wood-background.jpg?s=1024x1024&w=is&k=20&c=7BwVvm1z0fzqOxJwPY5-IDlT5VF8eQorL9MbvT-QViM=);
+    background-image: url(https://images.unsplash.com/photo-1713553589836-48fcc4b156a1?w=700&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxmZWF0dXJlZC1waG90b3MtZmVlZHwyfHx8ZW58MHx8fHx8);
     background-size: cover;
     background-position: center;
     
@@ -45,7 +45,7 @@ select{
     
 }
 .ok{
-    color: white;
+    color: rgb(29, 28, 28);
     text-transform: uppercase;
     text-align: center;
     font-weight: bolder;
